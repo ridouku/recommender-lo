@@ -1,0 +1,23 @@
+{
+    "name": "ridou/recommender-learning-object",
+    "description": "Learning Objects' Recommender Library based on JSON files",
+    "type": "library",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "authors": [
+        {
+            "name": "Bryan Arellano",
+            "email": "ridouku@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+	"require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "MatrixGenerator": "src/"
+        }
+    }
+}

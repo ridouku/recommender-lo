@@ -17,7 +17,10 @@
     },
     "autoload": {
         "psr-0": {
-            "MatrixGenerator": "src/"
+            "MatrixGenerator": "src/",
+            "RecommenderEngine":"src/",
+            "ProfileTest":"src/"
+
         }
     }
 }

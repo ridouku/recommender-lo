@@ -7,6 +7,20 @@ namespace Composer\Autoload;
 class ComposerStaticInit064879dbdd1bcc63f0050f2a2496cc50
 {
     public static $prefixesPsr0 = array (
+        'R' => 
+        array (
+            'RecommenderEngine' => 
+            array (
+                0 => __DIR__ . '/../..' . '/src',
+            ),
+        ),
+        'P' => 
+        array (
+            'ProfileTest' => 
+            array (
+                0 => __DIR__ . '/../..' . '/src',
+            ),
+        ),
         'M' => 
         array (
             'MatrixGenerator' => 

@@ -6,5 +6,7 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
+    'RecommenderEngine' => array($baseDir . '/src'),
+    'ProfileTest' => array($baseDir . '/src'),
     'MatrixGenerator' => array($baseDir . '/src'),
 );
